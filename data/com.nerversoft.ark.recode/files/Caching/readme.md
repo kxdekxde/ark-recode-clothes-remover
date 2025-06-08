@@ -1,0 +1,1 @@
+Your "Caching" folder goes here. Go to your Android folder, locate Ark Re:Code game folder and copy the folder "Caching" to this folder.
