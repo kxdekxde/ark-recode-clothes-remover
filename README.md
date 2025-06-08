@@ -23,8 +23,8 @@ When the girls in this game take damage their clothes change to two different st
 
 NOTE: The JSON catalog is useful to know what folders contain the bundles corresponding to the characters.
 
-Entries like `game/hero/h001/img_6a55d92a838e1ee25b88dc3e985cc022.bundle` contain the portrait images of the character and their icons.
-Entries like `game/hero/h005_a70c6f31c96e49db90d1bfd03d716780.bundle` contain the character and their skill cutscenes.
+Entries like `h001/img_6a55d92a838e1ee25b88dc3e985cc022` contain the portrait images of the character and their icons.
+Entries like `h005_a70c6f31c96e49db90d1bfd03d716780` contain the character and their skill cutscenes.
 
 
 Happy modding! ^‿^
